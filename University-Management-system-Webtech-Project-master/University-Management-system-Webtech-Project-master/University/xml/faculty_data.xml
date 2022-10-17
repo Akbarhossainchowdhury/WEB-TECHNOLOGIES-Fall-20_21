@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<users>
+  
+  <user id="2345667">
+    <firstname>Ullash</firstname>
+    <lastname>Bro</lastname>
+    
+    <gender>male</gender>
+	<course>WebTech</course>
+    <phone>01708338229</phone>
+    <email>ullashbro@gmail.com</email>
+
+  </user>
+  <user id="1456789">
+    <firstname>arif</firstname>
+    <lastname>khan</lastname>
+ 
+    <gender>male</gender>
+		<course>DataCom</course>
+    <phone>01642417285</phone>
+    <email>arifvai@gmail.com</email>
+
+  </user>
+</users>

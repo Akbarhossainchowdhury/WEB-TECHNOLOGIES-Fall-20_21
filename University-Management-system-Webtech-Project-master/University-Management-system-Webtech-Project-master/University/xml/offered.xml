@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <coursename>webtech</coursename>
+    <section>A</section>
+    <room>6123</room>
+    <status>open</status>
+    <count>37</count>
+  </user>
+  <user>
+    <coursename>Operating System</coursename>
+    <section>B</section>
+    <room>1111</room>
+    <status>closed</status>
+    <count>40</count>
+  </user>
+</users>

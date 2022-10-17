@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <name>rc</name>
+    <password>Aka1234#</password>
+    <username>rayhan45</username>
+    <gender>male</gender>
+    <email>a@k.com</email>
+    <phone>01924678</phone>
+    <city/>
+  </user>
+  <user>
+    <name>Ak</name>
+    <password>Aka1234#</password>
+    <username>Akaber</username>
+    <gender>Male</gender>
+    <email>a@k.com</email>
+    <phone>03984764</phone>
+    <city>Dhaka</city>
+  </user>
+  <user>
+    <name>rasel</name>
+    <password>Aka1234#</password>
+    <username>raselahmed</username>
+    <gender>male</gender>
+    <email>a@k.com</email>
+    <phone>12345689</phone>
+    <city>Khulna</city>
+  </user>
+  <user>
+    <name>Rayhan chowdhury</name>
+    <password>Akbar123#</password>
+    <username>Rcrayhan45</username>
+    <gender>Male</gender>
+    <email>rayhan5096@gmail.com</email>
+    <phone>33</phone>
+    <city>Dhaka</city>
+  </user>
+</users>

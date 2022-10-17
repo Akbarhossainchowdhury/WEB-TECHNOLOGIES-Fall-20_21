@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<users>
+  <user id="123455">
+    <firstname>Rayhan</firstname>
+    <CGPA>2.98</CGPA>
+    <gender>Male</gender>
+    <phone>123445455</phone>
+    <email>rayhan@gmail.com</email>
+    
+  </user>
+  
+  
+</users>

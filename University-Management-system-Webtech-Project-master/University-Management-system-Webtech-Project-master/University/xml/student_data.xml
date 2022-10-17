@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<users>
+  <user id="18-37539-1">
+    <firstname>Ariful</firstname>
+    <lastname>Kabir</lastname>
+    <gender>Male</gender>
+    <coursename>Operating System</coursename>
+    <section>B</section>
+    <email>arifulkabir03@gmail.com</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Ullash</firstname>
+    <lastname>Ahmed</lastname>
+    <gender>Male</gender>
+    <coursename>webtech</coursename>
+    <section>A</section>
+    <email>ullashbro@gmail.com</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Ariful</firstname>
+    <lastname>Ahmed</lastname>
+    <gender>Male</gender>
+    <coursename>webtech</coursename>
+    <section>A</section>
+    <email>hasan@gmail.com</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Tanvir</firstname>
+    <lastname>Ahmed</lastname>
+    <gender>Male</gender>
+    <coursename>webtech</coursename>
+    <section>A</section>
+    <email>tanvir@aiub.edu</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Ariful</firstname>
+    <lastname>Kabir</lastname>
+    <gender>Male</gender>
+    <enrolledcourse>datacom</enrolledcourse>
+    <section>c</section>
+    <email>arifulkabir03@gmail.com</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Ariful</firstname>
+    <lastname>Kabir</lastname>
+    <gender>Male</gender>
+    <enrolledcourse>datacom</enrolledcourse>
+    <section>A</section>
+    <email>arifulkabir03@gmail.com</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Ariful</firstname>
+    <lastname>Kabir</lastname>
+    <gender>Male</gender>
+    <enrolledcourse>datacom</enrolledcourse>
+    <section>A</section>
+    <email>arifulkabir03@gmail.com</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Ariful</firstname>
+    <lastname>Kabir</lastname>
+    <gender>Male</gender>
+    <enrolledcourse>datacom</enrolledcourse>
+    <section>B</section>
+    <email>arifulkabir03@gmail.com</email>
+  </user>
+</users>

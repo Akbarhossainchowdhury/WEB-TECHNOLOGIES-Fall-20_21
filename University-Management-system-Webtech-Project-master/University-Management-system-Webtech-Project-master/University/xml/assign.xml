@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<users>
+  <user id="2345667">
+    <firstname>Ullash</firstname>
+    <lastname>Bro</lastname>
+    <gender>male</gender>
+    <coursename>WebTech</coursename>
+    <section>A</section>
+    <room>6520</room>
+    <phone>01708338229</phone>
+    <email>ullashbro@gmail.com</email>
+  </user>
+  <user id="1456789">
+    <firstname>Arif</firstname>
+    <lastname>Bro</lastname>
+    <gender>male</gender>
+    <coursename>WebTech</coursename>
+    <section>B</section>
+    <room>6521</room>
+    <phone>01708338229</phone>
+    <email>arifbro@gmail.com</email>
+  </user>
+  <user id="18-37539-1">
+    <firstname>Hasan</firstname>
+    <lastname>Ibhrahim</lastname>
+    <gender>Male</gender>
+    <coursename>Operating System</coursename>
+    <section>B</section>
+    <room>1111</room>
+    <phone>01708338229</phone>
+    <email>hasan@gmail.com</email>
+  </user>
+</users>
